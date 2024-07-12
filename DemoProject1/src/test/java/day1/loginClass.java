@@ -16,7 +16,7 @@ public class loginClass {
 		//Approach 1;
 	 //  System.setProperty("WebDriver.chrome.driver", "Path of exe file of chrome");
 		
-		
+	//5	
 	//	Approach 2 -using webdrivermanager class
 		
 	/*	WebDriverManager.chromedriver().setup();
